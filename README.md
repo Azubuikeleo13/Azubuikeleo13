@@ -17,7 +17,7 @@
 
 - 💬 I’m interested in - **Information and Emerging Technologies as solutions in improving global computer network.**
 
-- 📫 How to reach me - **[azubuikeleo13@gmail.com, +234 8139013122]**
+- 📫 How to reach me - **azubuikeleo13@gmail.com**
     
 - ⚡ Fun fact - **I love Networking**
 
