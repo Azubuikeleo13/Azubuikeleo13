@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azubuikeleo13&show_icons=true&locale=en&layout=compact" alt="Azubuikeleo13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azubuikeleo13&show_icons=true&locale=en&theme=algolia" alt="Azubuikeleo13" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Azubuikeleo13&show_icons=true&locale=en&theme=algolia" alt="Azubuikeleo13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azubuikeleo13&" alt="Azubuikeleo13" /></p>
