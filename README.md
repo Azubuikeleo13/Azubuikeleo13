@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)
-<h1 align="center">Hi 👋, I'm Azubuikleo13 (Azubuike leo)</h1>
+<h1 align="center">Hi 👋, I'm Azubuikleo13 (Azubuike Leo)</h1>
 <h3 align="center">A Digital Engineer in-view from Lagos Nigeria</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azubuikeleo13)](https://github.com/Azubuikeleo13/github-profile-trophy)
