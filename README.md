@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)
 <h1 align="center">Hi 👋, I'm Azubuikleo13 (Azubuike Leo)</h1>
-<h3 align="center">A Digital Engineer in-view from Lagos Nigeria</h3>
+<h3 align="center">A Software Engineer from Lagos Nigeria</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azubuikeleo13)](https://github.com/Azubuikeleo13/github-profile-trophy)
 
@@ -10,15 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/LZubb" target="blank"><img src="https://img.shields.io/twitter/follow/LZubb?logo=twitter&style=for-the-badge" alt="LZubb" /></a> </p>
 
-- 🔭 I’m currently working on - **alx software Engineering Projects**
+- 🔭 I’m currently working on - **Some Projects** and will love to contribute to **Open-Source Projects** too.
 
-- 🌱 I’m currently Studying - **Computer System Engineering.**
+- 👀 I’m interested in **Server-side Web development and DevOPs Operations**
 
-- 👯 I’m looking to collaborate on - **Emerging Technologies like; DevOps, Software Development and Deployment, Web  etc.**
+- 🌱 I Studied - **Computer System Engineering.**
+
+- 👯 I’m also looking to collaborate on - **Emerging Technologies like; DevOps, Software Development and Deployment, etc.**
+
+- 🌱 I write **Python, Javascript, C, C++ and SQL**
 
 - 👨‍💻 All of my projects - are available at [https://github.com/Azubuikeleo13?tab=repositories](https://github.com/Azubuikeleo13?tab=repositories)
-
-- 💬 I’m interested in - **Information and Emerging Technologies as solutions in improving global computer network.**
 
 - 📫 How to reach me - **azubuikeleo13@gmail.com**
     
